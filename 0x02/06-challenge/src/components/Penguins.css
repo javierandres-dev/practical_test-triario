@@ -1,0 +1,5 @@
+.penguins ul {
+  list-style: none;
+  text-align: left;
+  padding: 1rem;
+}
