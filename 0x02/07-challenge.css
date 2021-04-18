@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+input {
+  width: 300px;
+  margin: 16px 0;
+}
+button {
+  width: 150px;
+}
+ul {
+  text-align: left;
+}
